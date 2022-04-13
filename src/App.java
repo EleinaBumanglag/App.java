@@ -18,7 +18,7 @@ public class App {
         return num1 + num2 + num3;
     }
     
-    //Method that returns a int greater value
+    //Method that returns an int greater value
     private static int greaterValue(int num1, int num2){
         if (num1 > num2) {
             return num1;
